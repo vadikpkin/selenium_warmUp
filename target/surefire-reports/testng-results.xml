@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="45268" started-at="2020-03-08T17:39:48Z" finished-at="2020-03-08T17:40:33Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="45268" started-at="2020-03-08T17:39:48Z" finished-at="2020-03-08T17:40:33Z">
+      <class name="test.HorizontalSliderTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.HorizontalSliderTest@668bc3d5]" name="setUp" is-config="true" duration-ms="4130" started-at="2020-03-08T17:40:02Z" finished-at="2020-03-08T17:40:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goHome()[pri:0, instance:test.HorizontalSliderTest@668bc3d5]" name="goHome" is-config="true" duration-ms="252" started-at="2020-03-08T17:40:06Z" finished-at="2020-03-08T17:40:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method status="PASS" signature="horizontalSliderTest()[pri:0, instance:test.HorizontalSliderTest@668bc3d5]" name="horizontalSliderTest" duration-ms="691" started-at="2020-03-08T17:40:06Z" finished-at="2020-03-08T17:40:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- horizontalSliderTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.HorizontalSliderTest@668bc3d5]" name="tearDown" is-config="true" duration-ms="154" started-at="2020-03-08T17:40:07Z" finished-at="2020-03-08T17:40:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.HorizontalSliderTest -->
+      <class name="test.DropDownPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.DropDownPageTest@7a5d012c]" name="setUp" is-config="true" duration-ms="8423" started-at="2020-03-08T17:40:18Z" finished-at="2020-03-08T17:40:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goHome()[pri:0, instance:test.DropDownPageTest@7a5d012c]" name="goHome" is-config="true" duration-ms="225" started-at="2020-03-08T17:40:27Z" finished-at="2020-03-08T17:40:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method status="PASS" signature="dropdownTestPage()[pri:0, instance:test.DropDownPageTest@7a5d012c]" name="dropdownTestPage" duration-ms="673" started-at="2020-03-08T17:40:27Z" finished-at="2020-03-08T17:40:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdownTestPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.DropDownPageTest@7a5d012c]" name="tearDown" is-config="true" duration-ms="150" started-at="2020-03-08T17:40:27Z" finished-at="2020-03-08T17:40:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.DropDownPageTest -->
+      <class name="test.HoverTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.HoverTest@3fb6a447]" name="setUp" is-config="true" duration-ms="4753" started-at="2020-03-08T17:40:28Z" finished-at="2020-03-08T17:40:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goHome()[pri:0, instance:test.HoverTest@3fb6a447]" name="goHome" is-config="true" duration-ms="239" started-at="2020-03-08T17:40:32Z" finished-at="2020-03-08T17:40:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method status="PASS" signature="hoverOverTest()[pri:0, instance:test.HoverTest@3fb6a447]" name="hoverOverTest" duration-ms="738" started-at="2020-03-08T17:40:33Z" finished-at="2020-03-08T17:40:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hoverOverTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.HoverTest@3fb6a447]" name="tearDown" is-config="true" duration-ms="108" started-at="2020-03-08T17:40:33Z" finished-at="2020-03-08T17:40:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.HoverTest -->
+      <class name="test.DynamicLoadingTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.DynamicLoadingTest@3cda1055]" name="setUp" is-config="true" duration-ms="4671" started-at="2020-03-08T17:40:07Z" finished-at="2020-03-08T17:40:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goHome()[pri:0, instance:test.DynamicLoadingTest@3cda1055]" name="goHome" is-config="true" duration-ms="241" started-at="2020-03-08T17:40:12Z" finished-at="2020-03-08T17:40:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method status="PASS" signature="dynamicLoadingExample2Test()[pri:0, instance:test.DynamicLoadingTest@3cda1055]" name="dynamicLoadingExample2Test" duration-ms="6065" started-at="2020-03-08T17:40:12Z" finished-at="2020-03-08T17:40:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dynamicLoadingExample2Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.DynamicLoadingTest@3cda1055]" name="tearDown" is-config="true" duration-ms="149" started-at="2020-03-08T17:40:18Z" finished-at="2020-03-08T17:40:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.DynamicLoadingTest -->
+      <class name="test.JavaScriptAlertsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.JavaScriptAlertsPageTest@380fb434]" name="setUp" is-config="true" duration-ms="11149" started-at="2020-03-08T17:39:48Z" finished-at="2020-03-08T17:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goHome()[pri:0, instance:test.JavaScriptAlertsPageTest@380fb434]" name="goHome" is-config="true" duration-ms="253" started-at="2020-03-08T17:39:59Z" finished-at="2020-03-08T17:40:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method status="PASS" signature="jsAlertAcceptTest()[pri:0, instance:test.JavaScriptAlertsPageTest@380fb434]" name="jsAlertAcceptTest" duration-ms="595" started-at="2020-03-08T17:40:00Z" finished-at="2020-03-08T17:40:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsAlertAcceptTest -->
+        <test-method status="PASS" signature="goHome()[pri:0, instance:test.JavaScriptAlertsPageTest@380fb434]" name="goHome" is-config="true" duration-ms="229" started-at="2020-03-08T17:40:00Z" finished-at="2020-03-08T17:40:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method status="PASS" signature="jsConfirmAlertDismissTest()[pri:0, instance:test.JavaScriptAlertsPageTest@380fb434]" name="jsConfirmAlertDismissTest" duration-ms="452" started-at="2020-03-08T17:40:00Z" finished-at="2020-03-08T17:40:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsConfirmAlertDismissTest -->
+        <test-method status="PASS" signature="goHome()[pri:0, instance:test.JavaScriptAlertsPageTest@380fb434]" name="goHome" is-config="true" duration-ms="226" started-at="2020-03-08T17:40:01Z" finished-at="2020-03-08T17:40:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method status="PASS" signature="jsPromptAlertTest()[pri:0, instance:test.JavaScriptAlertsPageTest@380fb434]" name="jsPromptAlertTest" duration-ms="492" started-at="2020-03-08T17:40:01Z" finished-at="2020-03-08T17:40:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsPromptAlertTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.JavaScriptAlertsPageTest@380fb434]" name="tearDown" is-config="true" duration-ms="160" started-at="2020-03-08T17:40:02Z" finished-at="2020-03-08T17:40:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.JavaScriptAlertsPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
